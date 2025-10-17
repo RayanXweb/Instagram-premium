@@ -24,6 +24,6 @@ pkg install git python
 pip install requests
 git clone https://github.com/RayanXweb/Instagram-premium
 cd Instagram-premium
-python igz.py
+python ig.py
 ```
 # Instagram Premium
