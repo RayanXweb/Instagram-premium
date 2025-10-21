@@ -27,3 +27,5 @@ cd Instagram-premium
 python ig.py
 ```
 # Instagram Premium
+# MENU
+# HASIL
